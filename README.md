@@ -1,20 +1,24 @@
 # Coffee Orders Data Visualization Project
 
-This repository contains an Excel project showcasing advanced skills in data cleaning, transformation, analysis, and visualization. The project involves a comprehensive analysis of coffee orders data.
+## Task
+Transform and analyze a raw coffee orders dataset using Excel, deriving actionable business insights and visualizing the results through a comprehensive dashboard.
 
-## Features
+## Components
+P1. Excel file containing the original 3 sheets of data.
+P2. Excel file containing the cleaned, transformed, and analyzed data.
 
-- **Data Cleaning and Transformation**: Transformed the original three sheets into a more comprehensive and insightful format with seven sheets.
-- **Data Analysis**: Performed detailed data analysis to derive "TotalSales" and "SalesByCountry".
-- **Business Insights**: Derived actionable business insights, such as identifying "Top5Customers".
-- **Data Visualization**: Created a "Dashboard" for effective data visualization.
+## Background
+Leveraged advanced Excel features and data analysis techniques to transform a raw dataset into a comprehensive data analysis project.
 
-## Skills Demonstrated
+## Approach
+- Cleaned and transformed the raw dataset, which originally contained three sheets, into a more comprehensive and insightful format with seven sheets.
+- Performed detailed data analysis to derive "TotalSales" and "SalesByCountry".
+- Derived actionable business insights, such as identifying "Top5Customers".
+- Created a comprehensive dashboard for effective data visualization.
 
-- Data cleaning and transformation
-- Data analysis
-- Derivation of actionable business insights
-- Data visualization
-- Advanced Excel skills
-
-This project demonstrates the ability to clean, transform, analyze, and visualize data using Excel, providing valuable business insights.
+## Technology Stack:
+- Excel
+- Data Cleaning Techniques
+- Data Transformation Techniques
+- Data Analysis Techniques
+- Data Visualization Techniques
