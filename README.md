@@ -4,8 +4,7 @@
 Transform and analyze a raw coffee orders dataset using Excel, deriving actionable business insights and visualizing the results through a comprehensive dashboard.
 
 ## Components
-- P1. Excel file containing the original 3 sheets of data.
-- P2. Excel file containing the cleaned, transformed, and analyzed data.
+- P1. Excel file containing the cleaned, transformed, and analyzed data.
 
 ## Background
 Leveraged advanced Excel features and data analysis techniques to transform a raw dataset into a comprehensive data analysis project.
@@ -22,3 +21,6 @@ Leveraged advanced Excel features and data analysis techniques to transform a ra
 - Data Transformation Techniques
 - Data Analysis Techniques
 - Data Visualization Techniques
+
+## Dataset:
+- CofeeOrdersDataset
