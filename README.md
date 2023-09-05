@@ -1,5 +1,7 @@
 # Coffee Sales Data Analysis
 
+![Coffee Sales Dashboard](./CoffeeSalesDashboard.jpg "Coffee Sales Data Analysis Dashboard")
+
 ## Objectives
 The primary objective of this project is to demonstrate proficiency in data analytics and business intelligence. The focus is on real-world data analysis scenarios in the sales domain, from raw data processing to insightful visualizations.
 
