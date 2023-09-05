@@ -1,26 +1,21 @@
-# Coffee Orders Data Visualization Project
+# Coffee Sales Data Analysis
 
-## Task
-Transform and analyze a raw coffee orders dataset using Excel, deriving actionable business insights and visualizing the results through a comprehensive dashboard.
+## Objectives
+The primary objective of this project is to demonstrate proficiency in data analytics and business intelligence, with a focus on real-world data analysis scenarios in the sales domain.
 
-## Components
-- P1. Excel file containing the cleaned, transformed, and analyzed data.
+## Summary
+This project involves a deep dive into coffee sales data. Starting with raw sales data, various Excel tools and techniques were employed to clean, transform, and derive insights. The end result is a comprehensive dashboard that visualizes key metrics and trends, offering invaluable insights for decision-makers in the sales and marketing domains.
 
-## Background
-Leveraged advanced Excel features and data analysis techniques to transform a raw dataset into a comprehensive data analysis project.
+## Dataset
+The dataset, `CoffeeOrdersDataset.xlsx`, contains raw sales data, including order IDs, order dates, customer IDs, product IDs, and quantities.
 
-## Approach
-- Cleaned and transformed the raw dataset, which originally contained three sheets, into a more comprehensive and insightful format with seven sheets.
-- Performed detailed data analysis to derive "TotalSales" and "SalesByCountry".
-- Derived actionable business insights, such as identifying "Top5Customers".
-- Created a comprehensive dashboard for effective data visualization.
+## Analysis & Transformation
+The processed and analyzed data can be found in `Coffee Orders Data Analysis + Vis.xlsx`. Key features and transformations include:
+- **Data Cleaning & Merging**: Missing values in the raw dataset were identified and filled. Additional details about customers and products were merged using their respective IDs.
+- **Data Segmentation**: Data was segmented by various attributes, including country and customer ID.
+- **Pivot Tables**: Pivot tables were created to provide summaries, such as total sales segmented by date and coffee type, as well as sales segmented by country.
+- **Ranking**: A list of the top 5 customers based on sales was created, showcasing the ability to rank and identify key business entities.
+- **Likely Visualizations**: While the visualizations in the 'Dashboard' sheet cannot be directly displayed here, they likely offer a graphical representation of the analyzed data, providing a clear and concise overview of key metrics and trends.
 
-## Technology Stack:
-- Excel
-- Data Cleaning Techniques
-- Data Transformation Techniques
-- Data Analysis Techniques
-- Data Visualization Techniques
-
-## Dataset:
-- CofeeOrdersDataset
+## Tools & Techniques
+This analysis leverages Excel's advanced features, including data cleaning and transformation tools, pivot table creation, data summarization, and visualization tools.
